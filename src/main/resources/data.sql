@@ -1,0 +1,2 @@
+INSERT INTO TWITCH_USER (TWITCH_USER_ID, BIO, DISPLAY_NAME, TWITCH_USER_TAG) VALUES (twitch_user_id_gen.nextval, 'billyKorando','Billy Korando','A developer advocate with IBM');
+INSERT INTO TWITCH_USER (TWITCH_USER_ID, BIO, DISPLAY_NAME, TWITCH_USER_TAG) VALUES (twitch_user_id_gen.nextval, 'saltnburnem313','Chris DeMars','Tuft & Needle');
